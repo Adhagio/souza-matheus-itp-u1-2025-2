@@ -88,5 +88,5 @@
 ## 🔧 Ambiente de Desenvolvimento
 
 - **SO**: [Windows/Linux/macOS]
-- **Compilador**: GCC versão [X.X]
+- **Compilador**: GCC versão [12.2.0 via MSYS2]
 - **Editor**: Visual Studio Code
